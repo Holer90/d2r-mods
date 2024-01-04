@@ -1,5 +1,7 @@
 # d2r-mods
-
+* Plain: No changes, but a repository of original files used
+* Llamugy: Stash changes made Bonesy
+* HolersMod: Based on llamugy, small tweaks to cube and weapons.
 
 # HolersMod
 ## cube changes
@@ -14,7 +16,7 @@
 * 1 Mal Rune + 3 Perfect Skull + 1 Normal Armor -> Armor With 3 Socket
 * 1 Mal Rune + 4 Perfect Skull + 1 Normal Armor -> Armor With 4 Socket
 
-## inventory changes
+## stash changes
 from llamugy to 17x13
 
 ## weapons changes
