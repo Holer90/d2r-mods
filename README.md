@@ -11,3 +11,9 @@
 1 Mal Rune + 2 Perfect Skull + 1 Normal Armor -> Armor With 2 Socket
 1 Mal Rune + 3 Perfect Skull + 1 Normal Armor -> Armor With 3 Socket
 1 Mal Rune + 4 Perfect Skull + 1 Normal Armor -> Armor With 4 Socket
+
+## inventory changes
+from llamugy to 17x13
+
+## weapons changes
+staves change to 1-hand weapons
