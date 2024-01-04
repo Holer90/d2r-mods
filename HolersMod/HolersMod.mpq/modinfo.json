@@ -1,0 +1,28 @@
+{
+    "name": "HolersMod",
+    "savepath": "HolersMod"
+
+/*
+--My Mod Details--
+Mod Download: 
+Mod Config Download: 
+Mod Version: 
+News 1 Title: "Welcome to PlugyResurrected based on Llamugy!"
+News 1 Message: "Let's see how long it takes for Llama to figure out how to change this news message...cheers!"
+News 2 Title: "My Custom Mod"
+News 2 Message: "My message goes here"
+ 
+--General Options--
+Map Layouts: Enabled
+UI Themes: Enabled
+Customizations: Enabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Enabled
+Runeword Sorting: Enabled
+HUD Display: Enabled
+Monster Stats Display: Enabled
+*/
+
+}
