@@ -177,46 +177,46 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1				0	28				
 1 Mal Rune + 4 Perfect Skull + 1 Normal Armor -> Armor With 4 Socket	1				100					6	"armo,hiq,nos"	r23	"skz,qty=4"					useitem				sock			4	4																																																																															0
 																																																																																																									0
 1 Gheeds -> Horror Brain	1				100	15	80	20		1	"lcha,uni"							brz																																																																																							0
-1 Horror Brain + Unique Item -> Reroll Unique Item	1				100																																																																																																				0
-1 Horror Brain + Set Item -> Reroll Set Item	1				100																																																																																																				0
+1 Horror Brain + Unique Item -> Reroll Unique Item	1				100					2	"any,uni"	brz						"useitem,reg"																																																																																							0
+1 Horror Brain + Set Item -> Reroll Set Item	1				100					2	"any,set"	brz						"useitem,reg"																																																																																							0
 																																																																																																									0
 3 Sunder Charms -> Horror Heart	1				100					3	"lcha,uni,qty=3"							hrt																																																																																							0
-1 Horror Heart + Magic Grand Charm -> Unique Grand Charm (+ Horror Heart)	1				100																																																																																																				0
-1 Horror Heart + Unique Grand Charm -> Unique Grand Charm (+ Horror Heart)	1				100																																																																																																				0
+1 Horror Heart + Magic Grand Charm -> Unique Grand Charm (+ Horror Heart)	1				100					2	"lcha,mag"	hrt						"usetype,uni"																													hrt																																																										0
+1 Horror Heart + Unique Grand Charm -> Unique Grand Charm (+ Horror Heart)	1				100					2	"lcha,uni"	hrt						"usetype,uni"																													hrt																																																										0
 																																																																																																									0
 4 Crafted Rings (1 each) -> Horror Soul	1				100					4	"ring,crf,qty=4"							sol																																																																																							0
-1 Horror Soul + 1 Perfect Skull + Unique Item -> Add 1 Socket to Unique Item	1				100																																																																																																				0
+1 Horror Soul + 1 Perfect Skull + Unique Item -> Add 1 Socket to Unique Item	1				100					3	"any,uni,nos"	sol	skz					useitem				sock			1	1																																																																															0
 																																																																																																									0
 4 Crafted Amulets (1 each) -> Horror Flag	1				100					4	"amu,crf,qty=4"							flg																																																																																							0
-1 Horror Flag + 1 Perfect Skull + Set Item -> Add 1 Socket to Set Item	1				100																																																																																																				0
+1 Horror Flag + 1 Perfect Skull + Set Item -> Add 1 Socket to Set Item	1				100					3	"any,set,nos"	flg	skz					useitem				sock			1	1																																																																															0
 																																																																																																									0
 4 Crafted Belts (1 each) -> Horror Fang	1				100					4	"tbl,crf"	"mlb,crf"	"vbl,crf"	"lbl,crf"				fng																																																																																							0
-1 Horror Fang + 1 Perfect Skull + Rare Item -> Add 1 Socket to Rare Item	1				100																																																																																																				0
+1 Horror Fang + 1 Perfect Skull + Rare Item -> Add 1 Socket to Rare Item	1				100					3	"any,rar"	fng	skz					useitem				sock			1	1																																																																															0
 																																																																																																									0
 1 Magic Item with Jewelers Prefix -> Horror Quill	1				100					1	"any,mag,sock=4"							qll																																																																																							0
-1 Horror Quill + 2 Perfect Skull + Magic Item -> Add 2 Sockets to Magic Item	1				100																																																																																																				0
+1 Horror Quill + 2 Perfect Skull + Magic Item -> Add 2 Sockets to Magic Item	1				100					4	"any,mag,nos"	qll	"skz,qty=2"					useitem				sock			2	2																																																																															0
 																																																																																																									0
-2 Token of Absolution + 2 Hel Rune + Socketed Item -> Retrieve sockets from item	1				100																																																																																																				0
+2 Token of Absolution + 2 Hel Rune + Socketed Item -> Retrieve sockets from item	1				100					5	any	"toa,qty=2"	"r15,qty=2"					"useitem,rem"																																																																																							0
 																																																																																																									0
 Ethereal Edge -> Horror Eye	1				100					1	"7la,uni"							eyz																																																																																							0
 Ghostflame -> Horror Eye	1				100					1	"7bl,uni"							eyz																																																																																							0
 Shadow Killer -> Horror Eye	1				100					1	"7cs,uni"							eyz																																																																																							0
-1 Horror Eye + 1 Io Rune + 1 Ko Rune + Non-ethereal Item -> Make Item Ethereal	1				100																																																																																																				0
-1 Horror Eye + 1 Lum Rune + 1 Fal Rune + Ethereal Item -> Make Item Non-Ethereal	1				100																																																																																																				0
+1 Horror Eye + 1 Io Rune + 1 Ko Rune + Non-ethereal Item -> Make Item Ethereal	1				100					4	"any,noe"	r16	r17	eyz																																																																																											0
+1 Horror Eye + 1 Lum Rune + 1 Fal Rune + Ethereal Item -> Make Item Non-Ethereal	1				100					4	"any,eth"	r18	r19	eyz																																																																																											0
 																																																																																																									0
 1 Cow King's Horn + 1 Cow King's Hooves -> 1 Horror Horn	1				100	15	80	20		2	"vbt,set"	"xap,set"						hrn																																																																																							0
 1 Cow King's Hide -> 1 Horror Tail	1				100					1	"stu,set"							tal																																																																																							0
-1 Horror Horn + 1 Horror Tail + 1 Magic Item -> Set Item with matching base	1				100																																																																																																				0
+1 Horror Horn + 1 Horror Tail + 1 Magic Item -> Set Item with matching base	1				100					3	"any,mag"	hrn	tal					"useitem,set"																																																																																							0
 																																																																																																									0
-1 Bonesnap -> 1 Horror Jawbone	1				100													jaw																																																																																							0
+1 Bonesnap -> 1 Horror Jawbone	1				100					1	"mau,uni"							jaw																																																																																							0
 																																																																																																									0
+Spectral Shard or Wizzy + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"knif,uni"	brz	rvl					"cm3,tmp"				cast1			15	30	res-all			-25	-15																																																																										0
+Suicide Branch + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"9wn,uni"	brz	rvl					"cm3,tmp"				cast1			15	30				-25	-15																																																																										0
 																																																																																																									0
+Goldstrike Arch or Rogues Bow + Horror Brain + Full Rejuv -> Kathya's Faith	1				100	15	93	49		3	"bow,uni"	brz	rvl					"cm3,tmp"				swing1			15	30				-25	-15																																																																										0
 																																																																																																									0
+Pelta Lunata or Blackoak Shield  + Horror Brain + Full Rejuv -> Charsi's Forge	1				100	15	102	39		3	"shld,uni"	brz	rvl					"cm3,tmp"				block1			10	20	balance1			10	20																																																																										0
 																																																																																																									0
-																																																																																																									0
-																																																																																																									0
-																																																																																																									0
-																																																																																																									0
-																																																																																																									0
+[40 FRW Set Boots] + Horror Brain + Full Rejuv -> Warriv's Fleet	1				100	15	96	39		3	"boot,set"	brz	rvl					"cm3,tmp"				move1			20	40				-25	-15																																																																										0
 																																																																																																									0
 																																																																																																									0
