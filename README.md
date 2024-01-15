@@ -51,3 +51,21 @@ The following organ-items are used for crafting! See more in the Cube section
 | 1 | Eye      | 1 | Io Rune             | 1 | Ko Rune       | 1 | Non-ethereal Item | Make Item Ethereal               |
 | 1 | Eye      | 1 | Lum Rune            | 1 | Fal Rune      | 1 | Ethereal Item     | Make Item Non-Ethereal           |
 | 1 | Horn     | 1 | Tail                | 1 | Magic Item    |   |                   | Make Set Item With Matching Base |
+
+
+# crafting recipes
+
+| Input     | Input            | Input | Input      | Output          |
+|-----------|------------------|-------|------------|-----------------|
+| Sol Rune  | Perfect Ruby     | Jewel | Ring       | Blood Ring      |
+| Amn Rune  | Perfect Amethyst | Jewel | Ring       | Caster Ring     |
+| Amn Rune  | Perfect Sapphire | Jewel | Ring       | Hitpower Ring   |
+| Amn Rune  | Perfect Emerald  | Jewel | Ring       | Safety Ring     |
+| Amn Rune  | Perfect Ruby     | Jewel | Amulet     | Blood Amulet    |
+| Ral Rune  | Perfect Amethyst | Jewel | Amulet     | Caster Amulet   |
+| Thul Rune | Perfect Sapphire | Jewel | Amulet     | Hitpower Amulet |
+| Thul Rune | Perfect Emerald  | Jewel | Amulet     | Safety Amulet   |
+| Tal Rune  | Perfect Ruby     | Jewel | Belt       | Blood Belt      |
+| Ith Rune  | Perfect Amethyst | Jewel | Light Belt | Caster Belt     |
+| Tal Rune  | Perfect Sapphire | Jewel | Heavy Belt | Hitpower Belt   |
+| Tal Rune  | Perfect Emerald  | Jewel | Sash       | Safety Belt     |
