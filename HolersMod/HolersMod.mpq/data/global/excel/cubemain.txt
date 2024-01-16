@@ -210,13 +210,12 @@ Shadow Killer -> Horror Eye	1				100					1	"7cs,uni"							eyz																		
 																																																																																																									0
 1 Bonesnap -> 1 Horror Jawbone	1				100					1	"mau,uni"							jaw																																																																																							0
 																																																																																																									0
-Spectral Shard or Wizzy + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"knif,uni"	brz	rvl					"cm3,tmp"				cast1			15	30	res-all			-25	-15																																																																										0
-Suicide Branch + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"9wn,uni"	brz	rvl					"cm3,tmp"				cast1			15	30	res-all			-25	-15																																																																										0
+Spectral Shard or Wizzy + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"knif,uni"	brz	rvl					"cm2,mag,pre=278,suf=266"		100		cast1			15	30	res-all			-30	-15	mag%			-1	-1	balance2			-8	-8																																																																0
+Suicide Branch + Horror Brain + Full Rejuv -> Akara's Foresight	1				100	15	105	49		3	"9wn,uni"	brz	rvl					"cm2,mag,pre=278,suf=266"		100		cast1			15	30	res-all			-30	-15	mag%			-1	-1	balance2			-8	-8																																																																0
 																																																																																																									0
-Goldstrike Arch or Rogues Bow + Horror Brain + Full Rejuv -> Kathya's Faith	1				100	15	93	49		3	"bow,uni"	brz	rvl					"cm3,tmp"				swing1			15	30	res-all			-25	-15																																																																										0
+Goldstrike Arch or Rogues Bow + Horror Brain + Full Rejuv -> Kathya's Faith	1				100	15	93	49		3	"bow,uni"	brz	rvl					"cm2,mag,pre=278,suf=266"		100		swing1			15	30	res-all			-30	-15	mag%			-1	-1	balance2			-8	-8																																																																0
 																																																																																																									0
-Pelta Lunata or Blackoak Shield  + Horror Brain + Full Rejuv -> Charsi's Forge	1				100	15	102	39		3	"shld,uni"	brz	rvl					"cm3,tmp"				block1			10	20	balance1			10	20	res-all			-25	-15																																																																					0
+Pelta Lunata or Blackoak Shield  + Horror Brain + Full Rejuv -> Charsi's Forge	1				100	15	102	39		3	"shld,uni"	brz	rvl					"cm2,mag,pre=278,suf=266"		100		block1			10	20	balance1			10	20	res-all			-30	-15	mag%			-1	-1	balance2			-8	-8																																																											0
 																																																																																																									0
-[40 FRW Set Boots] + Horror Brain + Full Rejuv -> Warriv's Fleet	1				100	15	96	39		3	"boot,set"	brz	rvl					"cm3,tmp"				move1			20	40	res-all			-25	-15																																																																										0
-																																																																																																									0
+[40 FRW Set Boots] + Horror Brain + Full Rejuv -> Warriv's Fleet	1				100	15	96	39		3	"boot,set"	brz	rvl					"cm2,mag,pre=278,suf=266"		100		move1			25	50	res-all			-30	-15	mag%			-1	-1	balance2			-8	-8																																																																0
 																																																																																																									0

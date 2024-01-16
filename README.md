@@ -14,7 +14,7 @@ Change list:
 
 Unique Items:
 * Arachnid Mesh (Spiderweb Sash)
-	* +15% Faster Cast Rate (from 20%)
+	* +10% Faster Cast Rate (from 20%)
 * Harlequin Crest (Shako):
     * +1 To All Skills (from +2)
     * + (1 Per Character Level) 1-99 To Life (Based On Character Level) (from 1.5 Per Character Level)
@@ -105,7 +105,7 @@ The following organ-items are used for crafting! See more in the Cube section
 
 | Item created               | Input 1 | Input 2            | Input 3            |
 |----------------------------|---------|--------------------|--------------------|
-| Akara's Foresight (FCR)    | Brain   | Full Rejuv. Potion | Spectral Shard or <br> Wizardspike <br> Suicide Branch | 
+| Akara's Foresight (FCR)    | Brain   | Full Rejuv. Potion | Spectral Shard or <br> Wizardspike or <br> Suicide Branch | 
 | Kashya's Faith (IAS)       | Brain   | Full Rejuv. Potion | Goldstrike Arch or <br> Rogues Bow | 
 | Charsi's Forge (FHR & FBR) | Brain   | Full Rejuv. Potion | Pelta Lunata or <br> Blackoak Shield | 
 | Warriv's Fleet (FRW)       | Brain   | Full Rejuv. Potion | 40 FRW Set Boots | 

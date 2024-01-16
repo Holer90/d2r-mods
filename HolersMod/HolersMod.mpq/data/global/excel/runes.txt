@@ -179,6 +179,6 @@ Runeword178	Cure	1	3		D2R Ladder 3	helm									ShaelIoTal	r13	r16	r07				hp%		5
 Runeword179	Bulwark	1	3		D2R Ladder 3	helm									ShaelIoSol	r13	r16	r12				hp%		5	5	ac%		75	100	red-dmg%		10	15	regen		30	30	lifesteal		4	6									0
 Runeword500	Ignis	1				shld									HelVexRal	r15	r26	r08				allskills		1	1	pierce-fire		15	20	block		10	10	block1		20	20	ac%		140	180	gethit-skill	Meteor	5	20					0
 Runeword501	Terra	1				shld									HelGulTal	r15	r25	r07				allskills		1	1	pierce-pois		15	20	block		10	10	block1		20	20	ac%		140	180	gethit-skill	Poison Nova	5	20					0
-Runeword502	Aer	1				shld									HelLoOrt	r15	r28	r09		r26		allskills		1	1	pierce-ltng		15	20	block		10	10	block1		20	20	ac%		140	180	gethit-skill	Thunder Storm	5	20					0
+Runeword502	Aer	1				shld									HelLoOrt	r15	r28	r09				allskills		1	1	pierce-ltng		15	20	block		10	10	block1		20	20	ac%		140	180	gethit-skill	Thunder Storm	5	20					0
 Runeword503	Aqva	1				shld									HelOhmThul	r15	r27	r10				allskills		1	1	pierce-cold		15	20	block		10	10	block1		20	20	ac%		140	180	gethit-skill	Blizzard	5	20					0
 Runeword504	Void	1				shld									GulOhmLoVex	r25	r27	r28	r26			allskills		2	2	balance1		20	20	block		20	20	block1		20	20	ac%		180	200	oskill	Vengeance	6	6					0
