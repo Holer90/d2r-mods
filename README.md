@@ -1,4 +1,4 @@
-# d2r-mods
+# d2r-mod
 * Plain: No changes, but a repository of original files used
 * Llamugy: Stash changes made Bonesy
 * HolersMod: Based on llamugy, small tweaks to cube and weapons.
@@ -12,8 +12,43 @@ Change list:
 
 ### Item changes
 
-* 
+Unique Items:
+* Arachnid Mesh (Spiderweb Sash)
+	* +15% Faster Cast Rate (from 20%)
+* Harlequin Crest (Shako):
+    * +1 To All Skills (from +2)
+    * + (1 Per Character Level) 1-99 To Life (Based On Character Level) (from 1.5 Per Character Level)
+    * + (1 Per Character Level) 1-99 To Mana (Based On Character Level) (from 1.5 Per Character Level)
+* Skin of the Vipermagi (Serpentskin Armor)
+	* +20% Faster Cast Rate (from 30%)
+* Steelrend 
+	* 15-20% Increased Attack Speed 
+* Tyrael's Might (Sacred Armor):
+	* Socketed (1-2)
+	* 232% Extra Gold From Monsters
+	* 87% Better Chance of Getting Magic Items
+	* +9 To Find Item
+	* (removed) Slain Monsters Rest in Peace
 
+Runewords:
+* Enigma:
+    * +1 To All Skills (from +2)
+	* + (5 Per Character Level) 5-495 To Attack Rating (Based On Character Level)
+	* + (0.5 Per Character Level) +1-49% Better Chance of Getting Magic Items (Based On Character Level) (from 1 Per Character level)
+	* (removed) + (0.75 Per Character Level) +0-74 To Strength (Based On Character Level)
+* Fortitude:
+	* 250-300% Enhanced Damage (from 300%)
+* Grief:
+    * Damage +260-300 (from +340-400)
+    * +20-30% Increased Attack Speed (from 30-40%)
+* Infinity:
+    * +170-215% Enhanced Damage (from 255-323%)
+* Spirit:
+    * +1 To All Skills (from +2)
+	* +12-18 % Faster Cast Rate (from 25-35%)
+	* +25% Faster Hit Recoverym (from +55%)
+    * +11 To Vitality (from +22)
+	
 ### Runewords
 
 | Name  | Items            | Runes                | Stats                                                                                                                                                                                                                                                                         |
@@ -22,7 +57,7 @@ Change list:
 | Aqva  | 3 Socket Shields | Hel + Ohm + Thul     | +1 To All Skills <br>-15-20% Enemy Cold Resistance <br>+20% Increased Chance of Blocking  <br>+10% Faster Block Rate <br>+140-180% Enhanced Defense <br>5% Chance To Cask Level 20 Blizzard When Struck <br>+5% To Maximum Cold Resistance <br>+35% Cold Resistance <br>Requirements -20%               |
 | Aer   | 3 Socket Shields | Hel + Lo + Ort       | +1 To All Skills <br>-15-20% Enemy Lightning Resistance <br>+20% Increased Chance of Blocking <br>+10% Faster Block Rate <br>+140-180% Enhanced Defense <br>5% Chance To Cask Level 20 Thunder Storm When Struck <br>+5% To Maximum Lightning Resistance <br>+35% Lightning Resistance <br>Requirements -20% |
 | Ignis | 3 Socket Shields | Hel + Vex + Ral      | +1 To All Skills <br>-15-20% Enemy Fire Resistance <br>+20% Increased Chance of Blocking <br>+10% Faster Block Rate <br>+140-180% Enhanced Defense <br>5% Chance To Cask Level 20 Meteor <br>+5% To Maximum Fire Resistance  <br>+35% Poison Resistance <br>Requirements -20%                                |
-| Void  | 4 Socket Shields | Gul + Ohm + Lo + Vex | +2 To All Skills <br>+20% Increased Chance of Blocking <br>+20% Faster Block Rate <br>180-200% Enhanced Defense <br>+6 To Vengeance                                                                                                                                                           |
+| Void  | 4 Socket Shields | Gul + Ohm + Lo + Vex | +2 To All Skills <br>+20% Increased Chance of Blocking <br>+20% Faster Block Rate <br>180-200% Enhanced Defense <br>+6 To Vengeance <br>5% To Maximum All Resistance                                                                                                                                                       |
 
 ### Crafting items
 
@@ -67,7 +102,7 @@ The following organ-items are used for crafting! See more in the Cube section
 | 1 | Horn     | 1 | Tail                | 1 | Magic Item    |   |                   | Make Set Item With Matching Base |
 
 
-# crafting recipes
+### Crafting recipes
 
 | Input     | Input            | Input | Input      | Output          |
 |-----------|------------------|-------|------------|-----------------|
