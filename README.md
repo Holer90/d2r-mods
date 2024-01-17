@@ -114,6 +114,8 @@ Note: Limited to 1 of each, similar to Gheed's fortune. (Were supposed to be uni
 
 ### Crafting recipes
 
+Note: These are from the original game
+
 | Input     | Input            | Input | Input      | Output          |
 |-----------|------------------|-------|------------|-----------------|
 | Sol Rune  | Perfect Ruby     | Jewel | Ring       | Blood Ring      |
