@@ -101,6 +101,16 @@ The following organ-items are used for crafting! See more in the Cube section
 | 1 | Eye      | 1 | Lum Rune            | 1 | Fal Rune      | 1 | Ethereal Item     | Make Item Non-Ethereal           |
 | 1 | Horn     | 1 | Tail                | 1 | Magic Item    |   |                   | Make Set Item With Matching Base |
 
+### Tempered Charms
+
+| Item created               | Input 1 | Input 2            | Input 3            |
+|----------------------------|---------|--------------------|--------------------|
+| Akara's Foresight (FCR)    | Brain   | Full Rejuv. Potion | Spectral Shard or <br> Wizardspike <br> Suicide Branch | 
+| Kashya's Faith (IAS)       | Brain   | Full Rejuv. Potion | Goldstrike Arch or <br> Rogues Bow | 
+| Charsi's Forge (FHR & FBR) | Brain   | Full Rejuv. Potion | Pelta Lunata or <br> Blackoak Shield | 
+| Warriv's Fleet (FRW)       | Brain   | Full Rejuv. Potion | 40 FRW Set Boots | 
+
+Note: Limited to 1 of each, similar to Gheed's fortune. (Were supposed to be unique, but then I cannot create them in cube-only)
 
 ### Crafting recipes
 
