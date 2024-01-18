@@ -15,10 +15,18 @@ Change list:
 Unique Items:
 * Arachnid Mesh (Spiderweb Sash)
 	* +10% Faster Cast Rate (from 20%)
+* Earthshifter (Thunder Maul)
+	* Requirements -50%
+* Gloomstrap (Mesh Belt)
+	* +10% Faster Cast Rate
+* The Grandfather (Colossus Blade)
+	* Sockets 1-3 (Varies)
 * Harlequin Crest (Shako):
     * +1 To All Skills (from +2)
     * + (1 Per Character Level) 1-99 To Life (Based On Character Level) (from 1.5 Per Character Level)
     * + (1 Per Character Level) 1-99 To Mana (Based On Character Level) (from 1.5 Per Character Level)
+* Nosferatu's Coil (Vampirefang Belt)
+	* +1 To All Skills
 * Skin of the Vipermagi (Serpentskin Armor)
 	* +20% Faster Cast Rate (from 30%)
 * Steelrend 
@@ -29,6 +37,13 @@ Unique Items:
 	* 87% Better Chance of Getting Magic Items
 	* +9 To Find Item
 	* (removed) Slain Monsters Rest in Peace
+
+Set Items:
+* Credendum (Mithril Coil)
+	* +1 To All Skills
+* M'avina's Tenet
+	* +1 To All Skills
+	
 
 Runewords:
 * Enigma:
@@ -48,6 +63,10 @@ Runewords:
 	* +12-18 % Faster Cast Rate (from 25-35%)
 	* +25% Faster Hit Recoverym (from +55%)
     * +11 To Vitality (from +22)
+	
+Crafter Items:
+* Caster Belt:
+	* 10-15% Faster Cast Rate (was 5-10%)
 	
 ### Runewords
 
