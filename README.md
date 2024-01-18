@@ -13,8 +13,6 @@ Change list:
 ### Item changes
 
 Unique Items:
-* Arachnid Mesh (Spiderweb Sash)
-	* +10% Faster Cast Rate (from 20%)
 * Earthshifter (Thunder Maul)
 	* Requirements -50%
 * Gloomstrap (Mesh Belt)
@@ -25,6 +23,15 @@ Unique Items:
     * +1 To All Skills (from +2)
     * + (1 Per Character Level) 1-99 To Life (Based On Character Level) (from 1.5 Per Character Level)
     * + (1 Per Character Level) 1-99 To Mana (Based On Character Level) (from 1.5 Per Character Level)
+* Jamalla's Force Field (Archon Plate) (new)
+	* +1 Telekinesis
+	* +25-35% Faster Cast Rate
+	* 70-110% Enhanced Defense
+	* +100-150 Mana
+	* Magic Damage Reduced By 10-15
+	* Physical Damage Reduced By 10-15
+	* Ethereal
+	* Indestructible
 * Nosferatu's Coil (Vampirefang Belt)
 	* +1 To All Skills
 * Skin of the Vipermagi (Serpentskin Armor)
