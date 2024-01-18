@@ -23,7 +23,7 @@ Unique Items:
     * +1 To All Skills (from +2)
     * + (1 Per Character Level) 1-99 To Life (Based On Character Level) (from 1.5 Per Character Level)
     * + (1 Per Character Level) 1-99 To Mana (Based On Character Level) (from 1.5 Per Character Level)
-* Jamalla's Force Field (Archon Plate) (new)
+* Jamella's Force Field (Archon Plate) (new)
 	* +1 Telekinesis
 	* +25-35% Faster Cast Rate
 	* 70-110% Enhanced Defense
