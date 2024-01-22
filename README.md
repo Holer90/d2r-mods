@@ -157,6 +157,15 @@ Note: These are from the original game
 | Tal Rune  | Perfect Sapphire | Jewel | Heavy Belt | Hitpower Belt   |
 | Tal Rune  | Perfect Emerald  | Jewel | Sash       | Safety Belt     |
 
+### Color changes
+| Item                 | New Name      | Color      | Color Code |
+|----------------------|---------------|------------|------------|
+| Health Potions       | HP1-5         | red1       | ÿc1        |
+| Mana Potions         | MP1-5         | skyblue    | ÿcT        |
+| Rejuvenation Potions | Rejuv         | purple     | ÿc;        |
+| Gems                 |               | lightblue2 | ÿcP        |
+| High Runes (Vex+)    |               | darkgreen1 | ÿcA        |
+| Elite Items          | * (as prefix) |            |            |
 
 # Seeds
 GREAT LK: 667E35E3 = 1719547363
@@ -164,3 +173,4 @@ GREAT LK: 667E35E3 = 1719547363
 GOOD LK: 558E2214 = 1435378196
 
 GOOD LK, Stable SR: 6370A52E = 1668326702
+
