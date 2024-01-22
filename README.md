@@ -1,7 +1,7 @@
 # d2r-mod
 * Plain: No changes, but a repository of original files used
-* Llamugy: Stash changes made Bonesy
-* HolersMod: Based on llamugy, small tweaks to cube and weapons.
+* InventoryOnly: Stash changes made Bonesy for Llamugy and Inventory changes from https://github.com/cyhyraethz/d2r-basic-qol
+* HolersMod: Based on InventoryOnly, with small tweaks to cube and items.
 
 # HolersMod
 
@@ -156,3 +156,11 @@ Note: These are from the original game
 | Ith Rune  | Perfect Amethyst | Jewel | Light Belt | Caster Belt     |
 | Tal Rune  | Perfect Sapphire | Jewel | Heavy Belt | Hitpower Belt   |
 | Tal Rune  | Perfect Emerald  | Jewel | Sash       | Safety Belt     |
+
+
+# Seeds
+GREAT LK: 667E35E3 = 1719547363
+
+GOOD LK: 558E2214 = 1435378196
+
+GOOD LK, Stable SR: 6370A52E = 1668326702
